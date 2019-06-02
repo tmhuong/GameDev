@@ -1,0 +1,2499 @@
+fileFormatVersion: 2
+guid: e1d5d225eb6a0da4a9797fe34f5915d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1637268104452651199
+    second: PC Computer - MapleStory - The Book Ghost_0
+  - first:
+      213: 2081102348381851518
+    second: PC Computer - MapleStory - The Book Ghost_1
+  - first:
+      213: 4220780788668834404
+    second: PC Computer - MapleStory - The Book Ghost_2
+  - first:
+      213: -2839872683738529127
+    second: PC Computer - MapleStory - The Book Ghost_3
+  - first:
+      213: -8365481984180578488
+    second: PC Computer - MapleStory - The Book Ghost_4
+  - first:
+      213: 7784035434569573309
+    second: PC Computer - MapleStory - The Book Ghost_5
+  - first:
+      213: -7333571247075123739
+    second: PC Computer - MapleStory - The Book Ghost_6
+  - first:
+      213: -8662643910459757351
+    second: PC Computer - MapleStory - The Book Ghost_7
+  - first:
+      213: -3860381489045039070
+    second: PC Computer - MapleStory - The Book Ghost_8
+  - first:
+      213: -294406790600445985
+    second: PC Computer - MapleStory - The Book Ghost_9
+  - first:
+      213: 4641292319494236194
+    second: PC Computer - MapleStory - The Book Ghost_10
+  - first:
+      213: 971139576353086187
+    second: PC Computer - MapleStory - The Book Ghost_11
+  - first:
+      213: -7948415942913358146
+    second: PC Computer - MapleStory - The Book Ghost_12
+  - first:
+      213: -2449676027836967230
+    second: PC Computer - MapleStory - The Book Ghost_13
+  - first:
+      213: 7665837886880334115
+    second: PC Computer - MapleStory - The Book Ghost_14
+  - first:
+      213: -8905727533417487190
+    second: PC Computer - MapleStory - The Book Ghost_15
+  - first:
+      213: -5088334904714254253
+    second: PC Computer - MapleStory - The Book Ghost_16
+  - first:
+      213: -8779729913355189289
+    second: PC Computer - MapleStory - The Book Ghost_17
+  - first:
+      213: 7632481407732467879
+    second: PC Computer - MapleStory - The Book Ghost_18
+  - first:
+      213: 3298749495925203140
+    second: PC Computer - MapleStory - The Book Ghost_19
+  - first:
+      213: -1680799309947664487
+    second: PC Computer - MapleStory - The Book Ghost_20
+  - first:
+      213: -618098654764595611
+    second: PC Computer - MapleStory - The Book Ghost_21
+  - first:
+      213: 6499076884543484398
+    second: PC Computer - MapleStory - The Book Ghost_22
+  - first:
+      213: -2226401285224834122
+    second: PC Computer - MapleStory - The Book Ghost_23
+  - first:
+      213: 6840829126364817302
+    second: PC Computer - MapleStory - The Book Ghost_24
+  - first:
+      213: 222878506588072301
+    second: PC Computer - MapleStory - The Book Ghost_25
+  - first:
+      213: -533042492645114714
+    second: PC Computer - MapleStory - The Book Ghost_26
+  - first:
+      213: -3499911882611955511
+    second: PC Computer - MapleStory - The Book Ghost_27
+  - first:
+      213: -3594010908032939661
+    second: PC Computer - MapleStory - The Book Ghost_28
+  - first:
+      213: -923329365679572714
+    second: PC Computer - MapleStory - The Book Ghost_29
+  - first:
+      213: -983808229152281385
+    second: PC Computer - MapleStory - The Book Ghost_30
+  - first:
+      213: -9054146631280216056
+    second: PC Computer - MapleStory - The Book Ghost_31
+  - first:
+      213: 8105070524580831250
+    second: PC Computer - MapleStory - The Book Ghost_32
+  - first:
+      213: 1226827327602821699
+    second: PC Computer - MapleStory - The Book Ghost_33
+  - first:
+      213: 2151624082820440078
+    second: PC Computer - MapleStory - The Book Ghost_34
+  - first:
+      213: 8184063813381518059
+    second: PC Computer - MapleStory - The Book Ghost_35
+  - first:
+      213: -5825332759947332410
+    second: PC Computer - MapleStory - The Book Ghost_36
+  - first:
+      213: 8027446180283951957
+    second: PC Computer - MapleStory - The Book Ghost_37
+  - first:
+      213: -9182264348633579647
+    second: PC Computer - MapleStory - The Book Ghost_38
+  - first:
+      213: -5149337414969638642
+    second: PC Computer - MapleStory - The Book Ghost_39
+  - first:
+      213: 8703599447977174986
+    second: PC Computer - MapleStory - The Book Ghost_40
+  - first:
+      213: -9120015636735625844
+    second: PC Computer - MapleStory - The Book Ghost_41
+  - first:
+      213: 1511108039175793109
+    second: PC Computer - MapleStory - The Book Ghost_42
+  - first:
+      213: -8106717668604942881
+    second: PC Computer - MapleStory - The Book Ghost_43
+  - first:
+      213: 498632506814060641
+    second: PC Computer - MapleStory - The Book Ghost_44
+  - first:
+      213: 3118348025358718718
+    second: PC Computer - MapleStory - The Book Ghost_45
+  - first:
+      213: 4904662520317894374
+    second: PC Computer - MapleStory - The Book Ghost_46
+  - first:
+      213: -4945840198251534039
+    second: PC Computer - MapleStory - The Book Ghost_47
+  - first:
+      213: 1795973874466292504
+    second: PC Computer - MapleStory - The Book Ghost_48
+  - first:
+      213: 5015572692463863018
+    second: PC Computer - MapleStory - The Book Ghost_49
+  - first:
+      213: -1290514692308751103
+    second: PC Computer - MapleStory - The Book Ghost_50
+  - first:
+      213: 9135644636185171783
+    second: PC Computer - MapleStory - The Book Ghost_51
+  - first:
+      213: -3897873704288210640
+    second: PC Computer - MapleStory - The Book Ghost_52
+  - first:
+      213: -4211128380459791447
+    second: PC Computer - MapleStory - The Book Ghost_53
+  - first:
+      213: 8388201825500299874
+    second: PC Computer - MapleStory - The Book Ghost_54
+  - first:
+      213: 7082763059192178919
+    second: PC Computer - MapleStory - The Book Ghost_55
+  - first:
+      213: -8928515361436755012
+    second: PC Computer - MapleStory - The Book Ghost_56
+  - first:
+      213: -3863551212252197319
+    second: PC Computer - MapleStory - The Book Ghost_57
+  - first:
+      213: 8708007146237849766
+    second: PC Computer - MapleStory - The Book Ghost_58
+  - first:
+      213: 3301728231644005972
+    second: PC Computer - MapleStory - The Book Ghost_59
+  - first:
+      213: 8495835300268097515
+    second: PC Computer - MapleStory - The Book Ghost_60
+  - first:
+      213: -8245869632004322073
+    second: PC Computer - MapleStory - The Book Ghost_61
+  - first:
+      213: -5381496141558020299
+    second: PC Computer - MapleStory - The Book Ghost_62
+  - first:
+      213: -14414865336737695
+    second: PC Computer - MapleStory - The Book Ghost_63
+  - first:
+      213: 4542030430724281775
+    second: PC Computer - MapleStory - The Book Ghost_64
+  - first:
+      213: -3831565328466709048
+    second: PC Computer - MapleStory - The Book Ghost_65
+  - first:
+      213: 2552493560756384511
+    second: PC Computer - MapleStory - The Book Ghost_66
+  - first:
+      213: -5436897883319438821
+    second: PC Computer - MapleStory - The Book Ghost_67
+  - first:
+      213: 6384935763587462814
+    second: PC Computer - MapleStory - The Book Ghost_68
+  - first:
+      213: -6881290612508737693
+    second: PC Computer - MapleStory - The Book Ghost_69
+  - first:
+      213: 8018076437123956949
+    second: PC Computer - MapleStory - The Book Ghost_70
+  - first:
+      213: -4406190354151041085
+    second: PC Computer - MapleStory - The Book Ghost_71
+  - first:
+      213: -6126162029825969887
+    second: PC Computer - MapleStory - The Book Ghost_72
+  - first:
+      213: 763616339893649377
+    second: PC Computer - MapleStory - The Book Ghost_73
+  - first:
+      213: 1990116374184025977
+    second: PC Computer - MapleStory - The Book Ghost_74
+  - first:
+      213: -8105639668443111137
+    second: PC Computer - MapleStory - The Book Ghost_75
+  - first:
+      213: 7522368367640904556
+    second: PC Computer - MapleStory - The Book Ghost_76
+  - first:
+      213: -2360263126488538386
+    second: PC Computer - MapleStory - The Book Ghost_77
+  - first:
+      213: -7044887137064323024
+    second: PC Computer - MapleStory - The Book Ghost_78
+  - first:
+      213: 289085890001592408
+    second: PC Computer - MapleStory - The Book Ghost_79
+  - first:
+      213: -1248754482901392898
+    second: PC Computer - MapleStory - The Book Ghost_80
+  - first:
+      213: 2571284598687499448
+    second: PC Computer - MapleStory - The Book Ghost_81
+  - first:
+      213: -5312590928835795194
+    second: PC Computer - MapleStory - The Book Ghost_82
+  - first:
+      213: -1583226003597406335
+    second: PC Computer - MapleStory - The Book Ghost_83
+  - first:
+      213: 2513773855163756582
+    second: PC Computer - MapleStory - The Book Ghost_84
+  - first:
+      213: -729682512133260721
+    second: PC Computer - MapleStory - The Book Ghost_85
+  - first:
+      213: 4679699938047806118
+    second: PC Computer - MapleStory - The Book Ghost_86
+  - first:
+      213: -3890747925166116632
+    second: PC Computer - MapleStory - The Book Ghost_87
+  - first:
+      213: 5128605358021353223
+    second: PC Computer - MapleStory - The Book Ghost_88
+  - first:
+      213: 8027455671013661645
+    second: PC Computer - MapleStory - The Book Ghost_89
+  - first:
+      213: 2456667366686094243
+    second: PC Computer - MapleStory - The Book Ghost_90
+  - first:
+      213: -6734247691039387706
+    second: PC Computer - MapleStory - The Book Ghost_91
+  - first:
+      213: 4783045305967565716
+    second: PC Computer - MapleStory - The Book Ghost_92
+  - first:
+      213: -1870488830533196227
+    second: PC Computer - MapleStory - The Book Ghost_93
+  - first:
+      213: 7719772199780977080
+    second: PC Computer - MapleStory - The Book Ghost_94
+  - first:
+      213: 4322988235960367947
+    second: PC Computer - MapleStory - The Book Ghost_95
+  - first:
+      213: -4230484499322162935
+    second: PC Computer - MapleStory - The Book Ghost_96
+  - first:
+      213: 222820625655371809
+    second: PC Computer - MapleStory - The Book Ghost_97
+  - first:
+      213: -5151581455699851155
+    second: PC Computer - MapleStory - The Book Ghost_98
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 589
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4c7aff0af791645bf4811011c2ef22
+      internalID: 1637268104452651199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 664
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b81a85843ffc14a9e7f573c6666e79
+      internalID: 2081102348381851518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 589
+        width: 77
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15096984406129b4e8a9c14137e04a60
+      internalID: 4220780788668834404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_3
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 658
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a383beb2ee1a7479b6cb49700e8d3d
+      internalID: -2839872683738529127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_4
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 589
+        width: 79
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389ad1127b2805346983c09da5892a67
+      internalID: -8365481984180578488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 662
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493dade2a81dcda439e0b6f3f8756166
+      internalID: 7784035434569573309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_6
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 589
+        width: 77
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2decd9a614098a94fa0ec50226874c6f
+      internalID: -7333571247075123739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_7
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 665
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ea544853ebb924b905572eec50486c
+      internalID: -8662643910459757351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_8
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 589
+        width: 72
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69110f129fa87446938b898f2f28170
+      internalID: -3860381489045039070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_9
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 589
+        width: 70
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daace23f466c38744bcd7f31d233e7b6
+      internalID: -294406790600445985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_10
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 667
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eced2db0c33da1f4f8746627ad5bfd15
+      internalID: 4641292319494236194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_11
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 635
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c593dd43c84a6ee419dcf89b7f621434
+      internalID: 971139576353086187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_12
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 642
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73509a3e94ab85649b851e4dd4824b85
+      internalID: -7948415942913358146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_13
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 640
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b87b3812817374eaa9451b09cb57ff
+      internalID: -2449676027836967230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 617
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8260d3849e73a6045abed232b1976e04
+      internalID: 7665837886880334115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_15
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 621
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1569fb6d64b57d4ea4f8a2bec293a31
+      internalID: -8905727533417487190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_16
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 621
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23189d6d36d219c46bab4ce59ff6b0cc
+      internalID: -5088334904714254253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_17
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 622
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238ccfd4078ed784e9057ed493bfce22
+      internalID: -8779729913355189289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_18
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 623
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020c24b2f5c65fc45bcb0e1e3dfc2d40
+      internalID: 7632481407732467879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_19
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 623
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254dab5c907faaa4292e93e5504b41f6
+      internalID: 3298749495925203140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 483
+        width: 83
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1555243a84511b340bf615d7721748aa
+      internalID: -1680799309947664487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_21
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 556
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a7cff1032aa65418362d4445428971
+      internalID: -618098654764595611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_22
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 483
+        width: 77
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96934335eb936d40a41d86de032b4e4
+      internalID: 6499076884543484398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_23
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 482
+        width: 79
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847749e12ba580944b1e2da8b438ef02
+      internalID: -2226401285224834122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_24
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 482
+        width: 77
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ae06422421f3442ad205ce45026761
+      internalID: 6840829126364817302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_25
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 482
+        width: 72
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d88b0c81568d04fbe1e0977bfe8331
+      internalID: 222878506588072301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_26
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 482
+        width: 79
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd0e580884fb62488944556330eaa0e
+      internalID: -533042492645114714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_27
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 535
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7662f64b9f4f3ab41913fa63f8b23d9d
+      internalID: -3499911882611955511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_28
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 533
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b304e74320db148a29f427941437a0
+      internalID: -3594010908032939661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_29
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 530
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff24300c5bcaa44790b9b431d6d9ea8
+      internalID: -923329365679572714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_30
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 532
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563dead0d63e90543a21c64be72c9222
+      internalID: -983808229152281385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_31
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 534
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c4667ccc4275c458cea9b976282de0
+      internalID: -9054146631280216056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_32
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 536
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615c3fb2278fec846ab4bcd638bac188
+      internalID: 8105070524580831250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_33
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 518
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a03056676dcce4c8dac18a65a418bc
+      internalID: 1226827327602821699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_34
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 517
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6032bfc9b2e5fdc4db17cdc606de4b14
+      internalID: 2151624082820440078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_35
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 517
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5e5457e6a745a4dbef24af02ef0daf
+      internalID: 8184063813381518059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_36
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 517
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707f589631584e344a9910fa846dcf4f
+      internalID: -5825332759947332410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_37
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 350
+        width: 78
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311d4a4f8adcd7b4299a854ab8612e0c
+      internalID: 8027446180283951957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_38
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 446
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ff409602d54304a9c460356be52ab4
+      internalID: -9182264348633579647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_39
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 412
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6891b0d29bef64e98d989625f82353
+      internalID: -5149337414969638642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_40
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 424
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef679e52f03a0149b15083b6f7a9dfb
+      internalID: 8703599447977174986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_41
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 391
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2c943bc7bac994695abb510b6806ba
+      internalID: -9120015636735625844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_42
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 400
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad2b511004cecb4aa0d234d3be2f07e
+      internalID: 1511108039175793109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_43
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 400
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c714021e210af4fa7350b3972a6a5f
+      internalID: -8106717668604942881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_44
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 403
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c179ad19f1f4342a31b8c51464bbe5
+      internalID: 498632506814060641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_45
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 400
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db245fee636e264494fdb38bc98d345
+      internalID: 3118348025358718718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_46
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 403
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7585ecd33d28447b70365426c2da09
+      internalID: 4904662520317894374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_47
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 384
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba011483f71a7954e85d97ebd962fb21
+      internalID: -4945840198251534039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_48
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 384
+        width: 47
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41140ff9cc084a41a6d38d4f1dd4ce2
+      internalID: 1795973874466292504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_49
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 384
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5aad68d8132ed459a88c6b0290d4a8
+      internalID: 5015572692463863018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_50
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 384
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed0b83bc39283443abbc1e9652ad038
+      internalID: -1290514692308751103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_51
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 384
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ce99693e8c968468c89f6154d0b233
+      internalID: 9135644636185171783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_52
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 384
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d421951b8d513c41aae78422d722cc2
+      internalID: -3897873704288210640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_53
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 363
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034992248dad6a04fb3bc3f8f1280db4
+      internalID: -4211128380459791447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_54
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 183
+        width: 87
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96eaa8d5a2e4b8d49afb336aafd7492c
+      internalID: 8388201825500299874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_55
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 184
+        width: 105
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc9d9816668bde4a8423fe5d09c2a53
+      internalID: 7082763059192178919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_56
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 183
+        width: 113
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a27dcc16e686f43a21c97bf9b175e2
+      internalID: -8928515361436755012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_57
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 183
+        width: 124
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04352145faee8334aacfd86fd8df09b8
+      internalID: -3863551212252197319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_58
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 183
+        width: 124
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5e5b2e0a12bfe4b9875974586893ba
+      internalID: 8708007146237849766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_59
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 183
+        width: 131
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ce9a1370006e540a1d6bad074b1604
+      internalID: 3301728231644005972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_60
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 183
+        width: 116
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3131aa9a0eddf047b998bc1c315e3f8
+      internalID: 8495835300268097515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_61
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 183
+        width: 107
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ca36a72175be447b26fae16f9f636c
+      internalID: -8245869632004322073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_62
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 183
+        width: 103
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aeb43dc3f9410d4789ae9a3abd61289
+      internalID: -5381496141558020299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 106
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8eec0fdde6f51c4cb5922213f3b457c
+      internalID: -14414865336737695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_64
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 118
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5309200657bf8f546bd7ea841f9e7599
+      internalID: 4542030430724281775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_65
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 16
+        width: 113
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fcd8a49d4c6534f8d31d045883f1dc
+      internalID: -3831565328466709048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_66
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 89
+        width: 6
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046cf21a833f94b448d0dff73de53e17
+      internalID: 2552493560756384511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_67
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 16
+        width: 105
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f051c724dfd3c44494eecbe2b56e47b
+      internalID: -5436897883319438821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_68
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 87
+        width: 4
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70c7625014d52142afd5d82f103d35d
+      internalID: 6384935763587462814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_69
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 15
+        width: 105
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c2b8c64a102514c8e5436fef9a911a
+      internalID: -6881290612508737693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_70
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 15
+        width: 95
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7744770a1a8fb2544b9cf5d888be0835
+      internalID: 8018076437123956949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_71
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 13
+        width: 105
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313e0a9caff86984889ac064d43d9e6c
+      internalID: -4406190354151041085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_72
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 84
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eacc6fc4d2eabd14981e4bc560047b40
+      internalID: -6126162029825969887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_73
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 96
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e325c5aeb590ab840970a72ddfb28e4d
+      internalID: 763616339893649377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_74
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 80
+        width: 6
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10781f6c7eec80240b633fa13225cfb2
+      internalID: 1990116374184025977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_75
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 79
+        width: 4
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6631b835f43834a95e675a82837098
+      internalID: -8105639668443111137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_76
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 22
+        width: 76
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e6d30237e373b4f8225e35fffda418
+      internalID: 7522368367640904556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_77
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 22
+        width: 75
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bd37c31ad71394ab74a2a3ad655666
+      internalID: -2360263126488538386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_78
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 22
+        width: 80
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f0b8cf60d86b747bb6558dc8ab3e39
+      internalID: -7044887137064323024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_79
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 22
+        width: 87
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea2cdb715313324ea260a6574e5ee38
+      internalID: 289085890001592408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_80
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 21
+        width: 90
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922e17f6534e98e43a398697be2fd6c8
+      internalID: -1248754482901392898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_81
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 21
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff2a5ffed91efb44a9a53499d57cfbc
+      internalID: 2571284598687499448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_82
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 32
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd9480857e4df9428458b15adf2f111
+      internalID: -5312590928835795194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_83
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 23
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e51962713a8734f95b9b4fe8c1fc2e
+      internalID: -1583226003597406335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_84
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 31
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8346d4092a682024bb9727c30bd20ed9
+      internalID: 2513773855163756582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_85
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 33
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472437cb175d2c24d96ad72526159816
+      internalID: -729682512133260721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_86
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 30
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d166beb8f2e909e40a9508e39ba22ed4
+      internalID: 4679699938047806118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_87
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 34
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc94fafe6490d94f89132d1d1e2fa7e
+      internalID: -3890747925166116632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_88
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 29
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb5c11ec0028af41ba7a7d3353adb76
+      internalID: 5128605358021353223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_89
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 33
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8434b28902b72264eba8c2a6b7dc1c78
+      internalID: 8027455671013661645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_90
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 24
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd364c725cc324842869867d8ce0e1b1
+      internalID: 2456667366686094243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_91
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 21
+        width: 51
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06805957dc8e01240af44945e2c35b23
+      internalID: -6734247691039387706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_92
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 28
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a6b26af12c9fd45adb09444492d711
+      internalID: 4783045305967565716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_93
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 27
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f731fccd8065354b982902d2d0194b3
+      internalID: -1870488830533196227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_94
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 25
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da6e752f6e341745b94f6c584553f08
+      internalID: 7719772199780977080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_95
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 21
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af3f2955d7b5704aaba14c6f2e2cdfa
+      internalID: 4322988235960367947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_96
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 23
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8c1943a194ece45870ac6a1e5b7203
+      internalID: -4230484499322162935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_97
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 26
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ca1c05436616e499ad9d8353e2b077
+      internalID: 222820625655371809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - The Book Ghost_98
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 24
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18aa930d45d8cb949a447a780cb2672b
+      internalID: -5151581455699851155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3c2a82d128af6b34cacbf7e12323150c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

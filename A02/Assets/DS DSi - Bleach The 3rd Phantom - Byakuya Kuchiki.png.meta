@@ -1,0 +1,2523 @@
+fileFormatVersion: 2
+guid: 97f457020b3a63f4bbc845788891969f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1103633760499237903
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_0
+  - first:
+      213: 4562513513722303636
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_1
+  - first:
+      213: 1015035412270455950
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_2
+  - first:
+      213: 2676910597160577910
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_3
+  - first:
+      213: -5020012043079236632
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_4
+  - first:
+      213: 7916903123367005154
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_5
+  - first:
+      213: -5917201399570832424
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_6
+  - first:
+      213: -1402243472634206963
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_7
+  - first:
+      213: 359141292649575389
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_8
+  - first:
+      213: -2816542083178919249
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_9
+  - first:
+      213: -5927753675899824999
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_10
+  - first:
+      213: -5477948261376541059
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_11
+  - first:
+      213: -5675353623240920025
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_12
+  - first:
+      213: 773159108052584413
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_13
+  - first:
+      213: -2432817318881399701
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_14
+  - first:
+      213: -5850398320086572363
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_15
+  - first:
+      213: -2595739375460611861
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_16
+  - first:
+      213: -7586604252322004565
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_17
+  - first:
+      213: -5458775672980156318
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_18
+  - first:
+      213: 6844307452182373182
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_19
+  - first:
+      213: -4017169308621613460
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_20
+  - first:
+      213: -2390065384078030156
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_21
+  - first:
+      213: 1553221149546037832
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_22
+  - first:
+      213: 8446726035314030363
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_23
+  - first:
+      213: 2996106391175973456
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_24
+  - first:
+      213: -1394365758322949632
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_25
+  - first:
+      213: 1744503499596962962
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_26
+  - first:
+      213: 5559740007343570415
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_27
+  - first:
+      213: -5979344236965019830
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_28
+  - first:
+      213: 3924744590148685340
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_29
+  - first:
+      213: -4164830152092314413
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_30
+  - first:
+      213: 5635270443713828054
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_31
+  - first:
+      213: 7133329606946486972
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_32
+  - first:
+      213: 949071461728547638
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_33
+  - first:
+      213: -1422441429974064293
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_34
+  - first:
+      213: 1003195013957477348
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_35
+  - first:
+      213: 7114217644870578647
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_36
+  - first:
+      213: -311258691140876932
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_37
+  - first:
+      213: 1119012376912732629
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_38
+  - first:
+      213: 8780341850426221275
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_39
+  - first:
+      213: -5805778659075874629
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_40
+  - first:
+      213: -440196906411994340
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_41
+  - first:
+      213: -2987149112902900046
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_42
+  - first:
+      213: -6424054362036219028
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_43
+  - first:
+      213: -474289955890997513
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_44
+  - first:
+      213: 6894761906041910468
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_45
+  - first:
+      213: 3232105752150950316
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_46
+  - first:
+      213: -2626700941910340082
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_47
+  - first:
+      213: 2439728281833847341
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_48
+  - first:
+      213: -7808361599712804255
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_49
+  - first:
+      213: -1856097411981754998
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_50
+  - first:
+      213: 6550528020682051751
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_51
+  - first:
+      213: 2220662752594809617
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_52
+  - first:
+      213: 8532450427786002659
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_53
+  - first:
+      213: -4089646857127721659
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_54
+  - first:
+      213: 2349808503075779028
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_55
+  - first:
+      213: 3328927464074662227
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_56
+  - first:
+      213: -3735165657768908491
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_57
+  - first:
+      213: -3665183247614892112
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_58
+  - first:
+      213: 601606633207344252
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_59
+  - first:
+      213: -2503082136660489601
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_60
+  - first:
+      213: 335763867893317432
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_61
+  - first:
+      213: 1301488133587952731
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_62
+  - first:
+      213: 4076867483847423966
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_63
+  - first:
+      213: 3415311093433093791
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_64
+  - first:
+      213: -7678805643251988823
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_65
+  - first:
+      213: -530900300989858251
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_66
+  - first:
+      213: 7450075361249171123
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_67
+  - first:
+      213: 7934313383398869621
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_68
+  - first:
+      213: 9081317798710807938
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_69
+  - first:
+      213: -1519652982833797210
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_70
+  - first:
+      213: 4750662485951075181
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_71
+  - first:
+      213: 3983140094953457165
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_72
+  - first:
+      213: -6584617157019287084
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_73
+  - first:
+      213: -4747375343960618726
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_74
+  - first:
+      213: 8074542710065785556
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_75
+  - first:
+      213: -5449062410065260907
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_76
+  - first:
+      213: 8118619368088103182
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_77
+  - first:
+      213: -4735628530851474178
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_78
+  - first:
+      213: -8450868520663461524
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_79
+  - first:
+      213: 1378662466057548472
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_80
+  - first:
+      213: -210429885731687625
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_81
+  - first:
+      213: -6141094354452035748
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_82
+  - first:
+      213: -4420013126200241594
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_83
+  - first:
+      213: 5346687333573488552
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_84
+  - first:
+      213: 1529333158325202155
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_85
+  - first:
+      213: -1612767954423418496
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_86
+  - first:
+      213: -7613445945956935911
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_87
+  - first:
+      213: 2019242666328330439
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_88
+  - first:
+      213: 7462028376754934931
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_89
+  - first:
+      213: 4981969757203935955
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_90
+  - first:
+      213: 4118235596392237101
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_91
+  - first:
+      213: -1176763377033864872
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_92
+  - first:
+      213: 3315393868864613806
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_93
+  - first:
+      213: -7829754604622815502
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_94
+  - first:
+      213: 556328472876548189
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_95
+  - first:
+      213: 2485864429677931977
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_96
+  - first:
+      213: -5131826953280887327
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_97
+  - first:
+      213: 6940830401916065020
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_98
+  - first:
+      213: 1326961148148871234
+    second: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_99
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1371
+        width: 62
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa56fded5c11f3942b92e63771431ae9
+      internalID: -1103633760499237903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1371
+        width: 62
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35581c2bca92d6941ad25bb0b8b4cdaf
+      internalID: 4562513513722303636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1371
+        width: 63
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe50203540c4db342ac5d11a28ade89b
+      internalID: 1015035412270455950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1371
+        width: 63
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b561181da703c9944bd4a82c35d59682
+      internalID: 2676910597160577910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_4
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1371
+        width: 63
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae26b9347c603f498908f3fb8fa6ba6
+      internalID: -5020012043079236632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_5
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1371
+        width: 63
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c4e01d3e0d49f41a1e9f5036de20f4
+      internalID: 7916903123367005154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_6
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1371
+        width: 62
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e2ae0ac36570f4e90d53ebaebad351
+      internalID: -5917201399570832424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_7
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1371
+        width: 62
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7aea2f390569d442b5b586af642ea60
+      internalID: -1402243472634206963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1264
+        width: 58
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da433cdf83fe74648aa389494889e4df
+      internalID: 359141292649575389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_9
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1264
+        width: 121
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26e1be3c219c3940960a7c794200c33
+      internalID: -2816542083178919249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1264
+        width: 121
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752aa32f32e6db94a879e5c99768e538
+      internalID: -5927753675899824999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_11
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1264
+        width: 135
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15310f4e2f857154c8bfc2962a51b4ab
+      internalID: -5477948261376541059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_12
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1264
+        width: 93
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d3e71c5238599448005fac3707d92e
+      internalID: -5675353623240920025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_13
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1264
+        width: 80
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bf88c236dada146b32c0e3d18518c4
+      internalID: 773159108052584413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1138
+        width: 77
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220a885cf8d6b184792b0e2130bdf18e
+      internalID: -2432817318881399701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_15
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1138
+        width: 77
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137293bf18e9c014aa1bd59d86bfcecc
+      internalID: -5850398320086572363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_16
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1138
+        width: 137
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30126984a6c0c34985841132085b643
+      internalID: -2595739375460611861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_17
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1138
+        width: 121
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc40d4eb72bb6f40b1bc637a9080827
+      internalID: -7586604252322004565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_18
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1138
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96a32365d77cc64bb893575bbc8f64c
+      internalID: -5458775672980156318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_19
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1138
+        width: 74
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcfb4fefea3f2b4692b38f380d0e9c0
+      internalID: 6844307452182373182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_20
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1138
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098a2673f7662ab40bc35e0b1b22d21d
+      internalID: -4017169308621613460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1017
+        width: 80
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ca20b7e7f9ae74289c6d9e441fa9a7
+      internalID: -2390065384078030156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_22
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1017
+        width: 80
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735bebb723efe114ba8ba56148e4384a
+      internalID: 1553221149546037832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1017
+        width: 128
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2726d3dbab8d849b500b02ccaa9919
+      internalID: 8446726035314030363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_24
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1017
+        width: 135
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6941c56f0799712498becf46b6ec0297
+      internalID: 2996106391175973456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_25
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1017
+        width: 135
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e10f15c63050a43a77afc647046295
+      internalID: -1394365758322949632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_26
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1017
+        width: 129
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd1a5794f0c8924fbf8efb29a37d720
+      internalID: 1744503499596962962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_27
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1017
+        width: 111
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb81bd10c6071e48ab81cb4250f140b
+      internalID: 5559740007343570415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_28
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1017
+        width: 109
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d887fbf3a622c40aaea0a8a06c39d5
+      internalID: -5979344236965019830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_29
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1017
+        width: 54
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac1f4bbaf8ebb34dad38dd0555b8fc4
+      internalID: 3924744590148685340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 53
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fe6542805db0940b3c95439336a96a
+      internalID: -4164830152092314413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_31
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 864
+        width: 53
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c336a972c4fb148a1119bf05e44209
+      internalID: 5635270443713828054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_32
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 864
+        width: 53
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9a51c0289dd1f41a072c7cf9bbe6b6
+      internalID: 7133329606946486972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_33
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 864
+        width: 53
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a933fc186187ac428f6b3dff44aa759
+      internalID: 949071461728547638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_34
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 864
+        width: 53
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a6dc2d6341bdc46bcbc651566af639
+      internalID: -1422441429974064293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_35
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 864
+        width: 54
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7fddfb385ca794ead96fa54a7d38d9
+      internalID: 1003195013957477348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_36
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 864
+        width: 53
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddc1cbf12156f34097a88def312a1d1
+      internalID: 7114217644870578647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_37
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 864
+        width: 54
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca97452efbeb251428086d2c8e04ee5f
+      internalID: -311258691140876932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_38
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 864
+        width: 64
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56bd1da213bf0c48bce4c9ce55c8b9a
+      internalID: 1119012376912732629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_39
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 864
+        width: 80
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e2f022bdb393349ae0653a8ab96051
+      internalID: 8780341850426221275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_40
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 864
+        width: 96
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3314a8056781acf4ab218144f6b8e035
+      internalID: -5805778659075874629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 721
+        width: 65
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef50b1ba3cce5a46bbac644a9eaf151
+      internalID: -440196906411994340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_42
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 721
+        width: 65
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f9d75cc718a1e49903ed60089bfe2b
+      internalID: -2987149112902900046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_43
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 721
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5be614ecce885408ba2eb7189bcf6b
+      internalID: -6424054362036219028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_44
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 721
+        width: 66
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6f44a1ad5381b41b3ed5355c0d9a94
+      internalID: -474289955890997513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_45
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 721
+        width: 83
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3288ab8706b6b5d42a0e35f30e5767fd
+      internalID: 6894761906041910468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_46
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 721
+        width: 69
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abeda8f348f1d24aa4d2115d40b0d87
+      internalID: 3232105752150950316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_47
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 721
+        width: 50
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db3ccd8a64c8324984f119936c5ef97
+      internalID: -2626700941910340082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_48
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 721
+        width: 53
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa35d975bf1b254db5726c79be117bf
+      internalID: 2439728281833847341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_49
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 721
+        width: 214
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7278a1e77f4f59439f793be8a795f1b
+      internalID: -7808361599712804255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 58
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0d2834c357a7d49ae9a6ea11e5a966
+      internalID: -1856097411981754998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_51
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 600
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b88ed8701bc9e649bc149c7e34eb17a
+      internalID: 6550528020682051751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_52
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 600
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829e3f97544b3ea469fa39fedd07a5f7
+      internalID: 2220662752594809617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_53
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 600
+        width: 89
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbb7c4b32f8aaa4082f8c96eda239a7
+      internalID: 8532450427786002659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_54
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 600
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c351a2c2a3057b48aa43ff2b5e7772a
+      internalID: -4089646857127721659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_55
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 600
+        width: 104
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8809211eca0682f4c9b72649e58f1e83
+      internalID: 2349808503075779028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_56
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 481
+        width: 112
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa4c2c1e7d8434488c00f9894540880
+      internalID: 3328927464074662227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 481
+        width: 66
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c45e97b853ee74eb31047d455602d0
+      internalID: -3735165657768908491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_58
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 481
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0dd6492b4c89624babb9e570d2b1207
+      internalID: -3665183247614892112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_59
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 481
+        width: 86
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d008cf8c7800a41979f633a79bab61
+      internalID: 601606633207344252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_60
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 481
+        width: 93
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8ce651186f88f448f5c51da11dc48a
+      internalID: -2503082136660489601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_61
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 481
+        width: 101
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0550b5c1f82b3ce4fba323e5bbc78257
+      internalID: 335763867893317432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_62
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 481
+        width: 88
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bd373f3edc81940ae2833629e79085
+      internalID: 1301488133587952731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 58
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8e34d73f35dfb47aa3eca72a24d147
+      internalID: 4076867483847423966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 66
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef84f598e457b3a4393b28bb2fe7f0a7
+      internalID: 3415311093433093791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_65
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 228
+        width: 61
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7be65d1b16610f4eb1a4c314b1d60b4
+      internalID: -7678805643251988823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_66
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 368
+        width: 69
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6309a81b78f6e304da8908fa926090c4
+      internalID: -530900300989858251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_67
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 228
+        width: 62
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86da7c5e4ac7e8a4c978d22eaef87496
+      internalID: 7450075361249171123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_68
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 397
+        width: 68
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7eed8e2ebaca7d419d4da40569eddfc
+      internalID: 7934313383398869621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_69
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 436
+        width: 71
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c873e9a90cfb6b04da30683cd9493abd
+      internalID: 9081317798710807938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 431
+        width: 66
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ecfdb368492f14f8c81fd924d4303b
+      internalID: -1519652982833797210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_71
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 381
+        width: 57
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3bca045fefc3954fb149a16f235a230
+      internalID: 4750662485951075181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_72
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 419
+        width: 45
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d00a7d57a6c3444e8130551c7c09f1d
+      internalID: 3983140094953457165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_73
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 345
+        width: 62
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4718db1f7e6bfca40ac2ba91b1034d3a
+      internalID: -6584617157019287084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_74
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 228
+        width: 72
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c8352c478ecc64ebc151c48ef452aa
+      internalID: -4747375343960618726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_75
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 330
+        width: 122
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b57acdfe025624c8ff1183f01919ba
+      internalID: 8074542710065785556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_76
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 294
+        width: 129
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d77b2a5c4279d409e0a6dc5f72c241
+      internalID: -5449062410065260907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_77
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 416
+        width: 46
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463162c0584532142b871df2bf70d13b
+      internalID: 8118619368088103182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_78
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 422
+        width: 54
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d7265c0a7ddf242a7a7c7f04f6649a
+      internalID: -4735628530851474178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_79
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 409
+        width: 63
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c37f27f6b0768942b4b4a33d2f08d0e
+      internalID: -8450868520663461524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_80
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 402
+        width: 54
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8aed6ed626a5044981920151128459
+      internalID: 1378662466057548472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_81
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 373
+        width: 48
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26bfba56cc7e4c449656d819b1ef612
+      internalID: -210429885731687625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_82
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 368
+        width: 20
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccda7531c0ba4454b9c8cf5c5731f258
+      internalID: -6141094354452035748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_83
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 228
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da5467af45b3eb4e92ef8794517fe0b
+      internalID: -4420013126200241594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_84
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 228
+        width: 87
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d27bd678870fe4cb12aff2545d3a41
+      internalID: 5346687333573488552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_85
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 228
+        width: 60
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f265af339a761b645a1342c5616ec6f2
+      internalID: 1529333158325202155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_86
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 228
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f29470619c3f04192b0eabd99db0b1
+      internalID: -1612767954423418496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 58
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b433890aba3b7924698049081654eaea
+      internalID: -7613445945956935911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_88
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 114
+        width: 61
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5398150031dfdcc4bb8e3cf8deb43b29
+      internalID: 2019242666328330439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_89
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 114
+        width: 62
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0ae99a3e7afc5498b80db13b5471a1
+      internalID: 7462028376754934931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_90
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 114
+        width: 61
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e550d029fb04cf4f8b07469ce49e9c3
+      internalID: 4981969757203935955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 66
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00c2f83c0299a042af9be90e784c9c8
+      internalID: 4118235596392237101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_92
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 5
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77936cbb941088045ba8fd6ef4b5b0ef
+      internalID: -1176763377033864872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_93
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 5
+        width: 65
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129900f22e4439641a9efd6cad1b4029
+      internalID: 3315393868864613806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_94
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 5
+        width: 65
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057cff145f92e9a4c81b3b88427863d7
+      internalID: -7829754604622815502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_95
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 5
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e668e354ef23c3a4b9c2e4534d239e50
+      internalID: 556328472876548189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_96
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 5
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5490776747e30c942a88504e6d2a6525
+      internalID: 2485864429677931977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_97
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 6
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e06fcc4bcd73f4429ca25022ab236ff
+      internalID: -5131826953280887327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_98
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 7
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290410623f71785419a62d6eaa006316
+      internalID: 6940830401916065020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Byakuya Kuchiki_99
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 0
+        width: 63
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022f551e4c090da4aa5012595f80f0f0
+      internalID: 1326961148148871234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2791bff8c792a63419ab47147c009b74
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
