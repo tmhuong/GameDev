@@ -1,0 +1,459 @@
+fileFormatVersion: 2
+guid: df733d76c0d2ac94dbc4cc62baf2c1e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5654446806475191864
+    second: kisspng-sprite-animation-2d-computer-graphics-texture-atla-sprite-5abbed01d0ce78.2243836415222653458553_0
+  - first:
+      213: 1959183199570426127
+    second: kisspng-sprite-animation-2d-computer-graphics-texture-atla-sprite-5abbed01d0ce78.2243836415222653458553_1
+  - first:
+      213: 6172818790018986309
+    second: kisspng-sprite-animation-2d-computer-graphics-texture-atla-sprite-5abbed01d0ce78.2243836415222653458553_2
+  - first:
+      213: -8456415600337351362
+    second: kisspng-sprite-animation-2d-computer-graphics-texture-atla-sprite-5abbed01d0ce78.2243836415222653458553_3
+  - first:
+      213: -3053308796096131573
+    second: kisspng-sprite-animation-2d-computer-graphics-texture-atla-sprite-5abbed01d0ce78.2243836415222653458553_4
+  - first:
+      213: -2326089749091053114
+    second: kisspng-sprite-animation-2d-computer-graphics-texture-atla-sprite-5abbed01d0ce78.2243836415222653458553_5
+  - first:
+      213: -8523629819574956316
+    second: kisspng-sprite-animation-2d-computer-graphics-texture-atla-sprite-5abbed01d0ce78.2243836415222653458553_6
+  - first:
+      213: -5215789437989463828
+    second: kisspng-sprite-animation-2d-computer-graphics-texture-atla-sprite-5abbed01d0ce78.2243836415222653458553_7
+  - first:
+      213: 2444327515194353442
+    second: kisspng-sprite-animation-2d-computer-graphics-texture-atla-sprite-5abbed01d0ce78.2243836415222653458553_8
+  - first:
+      213: -6868886813539307291
+    second: kisspng-sprite-animation-2d-computer-graphics-texture-atla-sprite-5abbed01d0ce78.2243836415222653458553_9
+  - first:
+      213: -3616529019108006447
+    second: kisspng-sprite-animation-2d-computer-graphics-texture-atla-sprite-5abbed01d0ce78.2243836415222653458553_10
+  - first:
+      213: 549463735373288586
+    second: kisspng-sprite-animation-2d-computer-graphics-texture-atla-sprite-5abbed01d0ce78.2243836415222653458553_11
+  - first:
+      213: -3464230067047890399
+    second: kisspng-sprite-animation-2d-computer-graphics-texture-atla-sprite-5abbed01d0ce78.2243836415222653458553_12
+  - first:
+      213: -2930561040961636771
+    second: kisspng-sprite-animation-2d-computer-graphics-texture-atla-sprite-5abbed01d0ce78.2243836415222653458553_13
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-texture-atla-sprite-5abbed01d0ce78.2243836415222653458553_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 337.3333
+        width: 183.6
+        height: 168.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f71660639ab7b348b1ff72c034b2339
+      internalID: -5654446806475191864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-texture-atla-sprite-5abbed01d0ce78.2243836415222653458553_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 337.3333
+        width: 183.6
+        height: 168.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c580c38bae73c064ca5067a4e1e63408
+      internalID: 1959183199570426127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-texture-atla-sprite-5abbed01d0ce78.2243836415222653458553_2
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 337.3333
+        width: 183.6
+        height: 168.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceaa01c5860411041ac8f65aa2650b53
+      internalID: 6172818790018986309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-texture-atla-sprite-5abbed01d0ce78.2243836415222653458553_3
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 337.3333
+        width: 183.6
+        height: 168.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29bfd662cc45f849827f75de8bab474
+      internalID: -8456415600337351362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-texture-atla-sprite-5abbed01d0ce78.2243836415222653458553_4
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 337.3333
+        width: 183.6
+        height: 168.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94dd8493afc4585469f6bae73d1a59c0
+      internalID: -3053308796096131573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-texture-atla-sprite-5abbed01d0ce78.2243836415222653458553_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 169.33333
+        width: 183.6
+        height: 168.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df625af14264b304d8a0640fa2ef0a4f
+      internalID: -2326089749091053114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-texture-atla-sprite-5abbed01d0ce78.2243836415222653458553_6
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 169.33333
+        width: 183.6
+        height: 168.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967c6341efcb3f24ab027dc407ce7bf6
+      internalID: -8523629819574956316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-texture-atla-sprite-5abbed01d0ce78.2243836415222653458553_7
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 169.33333
+        width: 183.6
+        height: 168.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e553156b6b46e484eb6a3edc3d4441c0
+      internalID: -5215789437989463828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-texture-atla-sprite-5abbed01d0ce78.2243836415222653458553_8
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 169.33333
+        width: 183.6
+        height: 168.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a82c3e9ca97f7544b1209a3d2bbce67
+      internalID: 2444327515194353442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-texture-atla-sprite-5abbed01d0ce78.2243836415222653458553_9
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 169.33333
+        width: 183.6
+        height: 168.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4664f6bb785520346881c1fc6995ac6d
+      internalID: -6868886813539307291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-texture-atla-sprite-5abbed01d0ce78.2243836415222653458553_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.3333282
+        width: 183.6
+        height: 168.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c60f916f9d12b4595caa1f7b4c7035
+      internalID: -3616529019108006447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-texture-atla-sprite-5abbed01d0ce78.2243836415222653458553_11
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1.3333282
+        width: 183.6
+        height: 168.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada788e287e9ae5408b1370efbf6fe0f
+      internalID: 549463735373288586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-texture-atla-sprite-5abbed01d0ce78.2243836415222653458553_12
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1.3333282
+        width: 183.6
+        height: 168.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2400e203894557c49b35a615aec8ba92
+      internalID: -3464230067047890399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-texture-atla-sprite-5abbed01d0ce78.2243836415222653458553_13
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1.3333282
+        width: 183.6
+        height: 168.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6ce675bc67129498135640b4982aa4
+      internalID: -2930561040961636771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: af7e5c6006a6b3d46adbb44e2681e440
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
