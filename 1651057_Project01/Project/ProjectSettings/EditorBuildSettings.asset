@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/MenuUI.unity
+    guid: 6a85888f59857194fb2a83f3e442a04a
+  - enabled: 1
     path: Assets/Scenes/Keyboard.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Mouse.unity
+    guid: bdda2fb75c2b9f04bb1a9e340d597282
   m_configObjects: {}

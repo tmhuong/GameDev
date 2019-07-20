@@ -1,0 +1,3819 @@
+fileFormatVersion: 2
+guid: 706d433474eb2a74a8523d0bef1a17b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7987527749476396800
+    second: Mobile - Dragonvale World - Egg Icons_0
+  - first:
+      213: 630302034314492727
+    second: Mobile - Dragonvale World - Egg Icons_1
+  - first:
+      213: 7535427952556308357
+    second: Mobile - Dragonvale World - Egg Icons_2
+  - first:
+      213: 8653542689633313510
+    second: Mobile - Dragonvale World - Egg Icons_3
+  - first:
+      213: -7458530450507116586
+    second: Mobile - Dragonvale World - Egg Icons_4
+  - first:
+      213: 5478163010152601495
+    second: Mobile - Dragonvale World - Egg Icons_5
+  - first:
+      213: -9094161447647150819
+    second: Mobile - Dragonvale World - Egg Icons_6
+  - first:
+      213: 8072484200749600190
+    second: Mobile - Dragonvale World - Egg Icons_7
+  - first:
+      213: 5672067622269890458
+    second: Mobile - Dragonvale World - Egg Icons_8
+  - first:
+      213: 7343745878951801135
+    second: Mobile - Dragonvale World - Egg Icons_9
+  - first:
+      213: 2090071783408904450
+    second: Mobile - Dragonvale World - Egg Icons_10
+  - first:
+      213: -5806212336713501050
+    second: Mobile - Dragonvale World - Egg Icons_11
+  - first:
+      213: 8762142764807221143
+    second: Mobile - Dragonvale World - Egg Icons_12
+  - first:
+      213: 2937420316596323603
+    second: Mobile - Dragonvale World - Egg Icons_13
+  - first:
+      213: -1525672627241798204
+    second: Mobile - Dragonvale World - Egg Icons_14
+  - first:
+      213: -6796652166421370421
+    second: Mobile - Dragonvale World - Egg Icons_15
+  - first:
+      213: -1352717523854403949
+    second: Mobile - Dragonvale World - Egg Icons_16
+  - first:
+      213: 4398501531293672266
+    second: Mobile - Dragonvale World - Egg Icons_17
+  - first:
+      213: 983149060660145111
+    second: Mobile - Dragonvale World - Egg Icons_18
+  - first:
+      213: 1149291786175374393
+    second: Mobile - Dragonvale World - Egg Icons_19
+  - first:
+      213: -230374242403458632
+    second: Mobile - Dragonvale World - Egg Icons_20
+  - first:
+      213: -1900698014276725729
+    second: Mobile - Dragonvale World - Egg Icons_21
+  - first:
+      213: -6136649971880160880
+    second: Mobile - Dragonvale World - Egg Icons_22
+  - first:
+      213: 3675981292836970326
+    second: Mobile - Dragonvale World - Egg Icons_23
+  - first:
+      213: 92429884349770451
+    second: Mobile - Dragonvale World - Egg Icons_24
+  - first:
+      213: -1655106493761072930
+    second: Mobile - Dragonvale World - Egg Icons_25
+  - first:
+      213: -1498913325636677035
+    second: Mobile - Dragonvale World - Egg Icons_26
+  - first:
+      213: -724080073942060660
+    second: Mobile - Dragonvale World - Egg Icons_27
+  - first:
+      213: 7961405799436586195
+    second: Mobile - Dragonvale World - Egg Icons_28
+  - first:
+      213: 7118666445779304543
+    second: Mobile - Dragonvale World - Egg Icons_29
+  - first:
+      213: 766733890712496962
+    second: Mobile - Dragonvale World - Egg Icons_30
+  - first:
+      213: -8168062103033005929
+    second: Mobile - Dragonvale World - Egg Icons_31
+  - first:
+      213: -2398249640310114842
+    second: Mobile - Dragonvale World - Egg Icons_32
+  - first:
+      213: -3139823344841577866
+    second: Mobile - Dragonvale World - Egg Icons_33
+  - first:
+      213: -3257284594592739406
+    second: Mobile - Dragonvale World - Egg Icons_34
+  - first:
+      213: -3135965348063620701
+    second: Mobile - Dragonvale World - Egg Icons_35
+  - first:
+      213: -5057053369538210568
+    second: Mobile - Dragonvale World - Egg Icons_36
+  - first:
+      213: -5954486664258615087
+    second: Mobile - Dragonvale World - Egg Icons_37
+  - first:
+      213: -8750891425448765344
+    second: Mobile - Dragonvale World - Egg Icons_38
+  - first:
+      213: -2752879177619951421
+    second: Mobile - Dragonvale World - Egg Icons_39
+  - first:
+      213: -4692401892782195700
+    second: Mobile - Dragonvale World - Egg Icons_40
+  - first:
+      213: 5192273810058824425
+    second: Mobile - Dragonvale World - Egg Icons_41
+  - first:
+      213: -384357782336704057
+    second: Mobile - Dragonvale World - Egg Icons_42
+  - first:
+      213: 8053875532597173408
+    second: Mobile - Dragonvale World - Egg Icons_43
+  - first:
+      213: 1733333653426847870
+    second: Mobile - Dragonvale World - Egg Icons_44
+  - first:
+      213: 4407256408170931383
+    second: Mobile - Dragonvale World - Egg Icons_45
+  - first:
+      213: -9113629587273676420
+    second: Mobile - Dragonvale World - Egg Icons_46
+  - first:
+      213: 1420000855437827730
+    second: Mobile - Dragonvale World - Egg Icons_47
+  - first:
+      213: 7443487440742758824
+    second: Mobile - Dragonvale World - Egg Icons_48
+  - first:
+      213: -1373596850953234439
+    second: Mobile - Dragonvale World - Egg Icons_49
+  - first:
+      213: 2364131822510102789
+    second: Mobile - Dragonvale World - Egg Icons_50
+  - first:
+      213: 7987717663995736602
+    second: Mobile - Dragonvale World - Egg Icons_51
+  - first:
+      213: 7877644734505897308
+    second: Mobile - Dragonvale World - Egg Icons_52
+  - first:
+      213: -3469116585059429390
+    second: Mobile - Dragonvale World - Egg Icons_53
+  - first:
+      213: -6057943868809586097
+    second: Mobile - Dragonvale World - Egg Icons_54
+  - first:
+      213: 403757294423299144
+    second: Mobile - Dragonvale World - Egg Icons_55
+  - first:
+      213: -4363444160489162572
+    second: Mobile - Dragonvale World - Egg Icons_56
+  - first:
+      213: 8297381448660363687
+    second: Mobile - Dragonvale World - Egg Icons_57
+  - first:
+      213: -7629754837374649004
+    second: Mobile - Dragonvale World - Egg Icons_58
+  - first:
+      213: -7971701895969818407
+    second: Mobile - Dragonvale World - Egg Icons_59
+  - first:
+      213: 3367926358202155402
+    second: Mobile - Dragonvale World - Egg Icons_60
+  - first:
+      213: 7207749181888274706
+    second: Mobile - Dragonvale World - Egg Icons_61
+  - first:
+      213: 2789389891160939134
+    second: Mobile - Dragonvale World - Egg Icons_62
+  - first:
+      213: 3160470015597311159
+    second: Mobile - Dragonvale World - Egg Icons_63
+  - first:
+      213: 2409460860162497632
+    second: Mobile - Dragonvale World - Egg Icons_64
+  - first:
+      213: 827549052440583785
+    second: Mobile - Dragonvale World - Egg Icons_65
+  - first:
+      213: 243654341998127662
+    second: Mobile - Dragonvale World - Egg Icons_66
+  - first:
+      213: 414519860170893378
+    second: Mobile - Dragonvale World - Egg Icons_67
+  - first:
+      213: 3727737015968479675
+    second: Mobile - Dragonvale World - Egg Icons_68
+  - first:
+      213: 8416247251495467883
+    second: Mobile - Dragonvale World - Egg Icons_69
+  - first:
+      213: -215647469344388154
+    second: Mobile - Dragonvale World - Egg Icons_70
+  - first:
+      213: -1057926880919880341
+    second: Mobile - Dragonvale World - Egg Icons_71
+  - first:
+      213: 8696178306948698276
+    second: Mobile - Dragonvale World - Egg Icons_72
+  - first:
+      213: -1639170143351601164
+    second: Mobile - Dragonvale World - Egg Icons_73
+  - first:
+      213: -8601337155463809798
+    second: Mobile - Dragonvale World - Egg Icons_74
+  - first:
+      213: -3425796313090206913
+    second: Mobile - Dragonvale World - Egg Icons_75
+  - first:
+      213: 1461785672441991466
+    second: Mobile - Dragonvale World - Egg Icons_76
+  - first:
+      213: 7921279916664133614
+    second: Mobile - Dragonvale World - Egg Icons_77
+  - first:
+      213: 3522699484905677404
+    second: Mobile - Dragonvale World - Egg Icons_78
+  - first:
+      213: -7706840431547737608
+    second: Mobile - Dragonvale World - Egg Icons_79
+  - first:
+      213: 4412723887224236672
+    second: Mobile - Dragonvale World - Egg Icons_80
+  - first:
+      213: -1802152286791562022
+    second: Mobile - Dragonvale World - Egg Icons_81
+  - first:
+      213: -5287394431126911238
+    second: Mobile - Dragonvale World - Egg Icons_82
+  - first:
+      213: 287618570616438242
+    second: Mobile - Dragonvale World - Egg Icons_83
+  - first:
+      213: 9101743649624809180
+    second: Mobile - Dragonvale World - Egg Icons_84
+  - first:
+      213: 2519970189581457254
+    second: Mobile - Dragonvale World - Egg Icons_85
+  - first:
+      213: -3395554466994607369
+    second: Mobile - Dragonvale World - Egg Icons_86
+  - first:
+      213: 2354662656014606064
+    second: Mobile - Dragonvale World - Egg Icons_87
+  - first:
+      213: -8148915623282917972
+    second: Mobile - Dragonvale World - Egg Icons_88
+  - first:
+      213: 7630258390885742307
+    second: Mobile - Dragonvale World - Egg Icons_89
+  - first:
+      213: 5526272243725723814
+    second: Mobile - Dragonvale World - Egg Icons_90
+  - first:
+      213: -1648980239050390069
+    second: Mobile - Dragonvale World - Egg Icons_91
+  - first:
+      213: 8598420714306372125
+    second: Mobile - Dragonvale World - Egg Icons_92
+  - first:
+      213: -5725879775750846318
+    second: Mobile - Dragonvale World - Egg Icons_93
+  - first:
+      213: -4308623056388901902
+    second: Mobile - Dragonvale World - Egg Icons_94
+  - first:
+      213: -7736926320499505695
+    second: Mobile - Dragonvale World - Egg Icons_95
+  - first:
+      213: -4831322760783649393
+    second: Mobile - Dragonvale World - Egg Icons_96
+  - first:
+      213: 3435050115784465341
+    second: Mobile - Dragonvale World - Egg Icons_97
+  - first:
+      213: 6904481882194456671
+    second: Mobile - Dragonvale World - Egg Icons_98
+  - first:
+      213: 2503615769165703221
+    second: Mobile - Dragonvale World - Egg Icons_99
+  - first:
+      213: 6519646883149002903
+    second: Mobile - Dragonvale World - Egg Icons_100
+  - first:
+      213: 660808248456044483
+    second: Mobile - Dragonvale World - Egg Icons_101
+  - first:
+      213: -6759310144515263787
+    second: Mobile - Dragonvale World - Egg Icons_102
+  - first:
+      213: -4569820610560278302
+    second: Mobile - Dragonvale World - Egg Icons_103
+  - first:
+      213: -3289840983697337799
+    second: Mobile - Dragonvale World - Egg Icons_104
+  - first:
+      213: 885205593845949104
+    second: Mobile - Dragonvale World - Egg Icons_105
+  - first:
+      213: 4673969801011423233
+    second: Mobile - Dragonvale World - Egg Icons_106
+  - first:
+      213: -8329467991905705901
+    second: Mobile - Dragonvale World - Egg Icons_107
+  - first:
+      213: 190904227711068547
+    second: Mobile - Dragonvale World - Egg Icons_108
+  - first:
+      213: 2560093273850612264
+    second: Mobile - Dragonvale World - Egg Icons_109
+  - first:
+      213: -2716587100783261704
+    second: Mobile - Dragonvale World - Egg Icons_110
+  - first:
+      213: 1598048932839198230
+    second: Mobile - Dragonvale World - Egg Icons_111
+  - first:
+      213: 9109177898283083784
+    second: Mobile - Dragonvale World - Egg Icons_112
+  - first:
+      213: -33639976580427414
+    second: Mobile - Dragonvale World - Egg Icons_113
+  - first:
+      213: 8050626558692645757
+    second: Mobile - Dragonvale World - Egg Icons_114
+  - first:
+      213: -5110135163203647139
+    second: Mobile - Dragonvale World - Egg Icons_115
+  - first:
+      213: -195008248242573132
+    second: Mobile - Dragonvale World - Egg Icons_116
+  - first:
+      213: 6967221561887512410
+    second: Mobile - Dragonvale World - Egg Icons_117
+  - first:
+      213: 3798702592346399416
+    second: Mobile - Dragonvale World - Egg Icons_118
+  - first:
+      213: 573965484960394482
+    second: Mobile - Dragonvale World - Egg Icons_119
+  - first:
+      213: -6408801939811235585
+    second: Mobile - Dragonvale World - Egg Icons_120
+  - first:
+      213: -4041260195303167888
+    second: Mobile - Dragonvale World - Egg Icons_121
+  - first:
+      213: 8026264781637301248
+    second: Mobile - Dragonvale World - Egg Icons_122
+  - first:
+      213: -5025234579623176788
+    second: Mobile - Dragonvale World - Egg Icons_123
+  - first:
+      213: 7724254312297124237
+    second: Mobile - Dragonvale World - Egg Icons_124
+  - first:
+      213: -8980547743821599490
+    second: Mobile - Dragonvale World - Egg Icons_125
+  - first:
+      213: -894148422931861723
+    second: Mobile - Dragonvale World - Egg Icons_126
+  - first:
+      213: 9037817043081690509
+    second: Mobile - Dragonvale World - Egg Icons_127
+  - first:
+      213: -3359781371994098740
+    second: Mobile - Dragonvale World - Egg Icons_128
+  - first:
+      213: 6652572600320829650
+    second: Mobile - Dragonvale World - Egg Icons_129
+  - first:
+      213: 3765579248110964060
+    second: Mobile - Dragonvale World - Egg Icons_130
+  - first:
+      213: -4463202310102621079
+    second: Mobile - Dragonvale World - Egg Icons_131
+  - first:
+      213: -2659680160861055128
+    second: Mobile - Dragonvale World - Egg Icons_132
+  - first:
+      213: 8026067803573425212
+    second: Mobile - Dragonvale World - Egg Icons_133
+  - first:
+      213: 6924195227842974793
+    second: Mobile - Dragonvale World - Egg Icons_134
+  - first:
+      213: -7262490667290134835
+    second: Mobile - Dragonvale World - Egg Icons_135
+  - first:
+      213: -1662089473408509715
+    second: Mobile - Dragonvale World - Egg Icons_136
+  - first:
+      213: -4417049141759996309
+    second: Mobile - Dragonvale World - Egg Icons_137
+  - first:
+      213: -6082181625751062960
+    second: Mobile - Dragonvale World - Egg Icons_138
+  - first:
+      213: 6079589167945213888
+    second: Mobile - Dragonvale World - Egg Icons_139
+  - first:
+      213: -7451329926999550864
+    second: Mobile - Dragonvale World - Egg Icons_140
+  - first:
+      213: 3699192524027725273
+    second: Mobile - Dragonvale World - Egg Icons_141
+  - first:
+      213: -8013908726038092421
+    second: Mobile - Dragonvale World - Egg Icons_142
+  - first:
+      213: -4458897117405689317
+    second: Mobile - Dragonvale World - Egg Icons_143
+  - first:
+      213: 9160330555122997950
+    second: Mobile - Dragonvale World - Egg Icons_144
+  - first:
+      213: 4117154507831749306
+    second: Mobile - Dragonvale World - Egg Icons_145
+  - first:
+      213: -7068170903323752175
+    second: Mobile - Dragonvale World - Egg Icons_146
+  - first:
+      213: -9197971934246002106
+    second: Mobile - Dragonvale World - Egg Icons_147
+  - first:
+      213: 7046477126845622960
+    second: Mobile - Dragonvale World - Egg Icons_148
+  - first:
+      213: -696139910543046153
+    second: Mobile - Dragonvale World - Egg Icons_149
+  - first:
+      213: 1069198526466391826
+    second: Mobile - Dragonvale World - Egg Icons_150
+  - first:
+      213: -4498029922159462223
+    second: Mobile - Dragonvale World - Egg Icons_151
+  - first:
+      213: -7026361181901182102
+    second: Mobile - Dragonvale World - Egg Icons_152
+  - first:
+      213: -5406704561280033919
+    second: Mobile - Dragonvale World - Egg Icons_153
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1926
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e4be661f384ce4fb1f7567c399626c
+      internalID: 7987527749476396800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1926
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91225d58517efb2448fed087c8215033
+      internalID: 630302034314492727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1926
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acc2c6180a8b8c4ebdec6b2a7b3efdd
+      internalID: 7535427952556308357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_3
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1926
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fdfd07e269b6b45bff862619f3a53d
+      internalID: 8653542689633313510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_4
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1926
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b764cefd207d3674e9c90f0a027b2dac
+      internalID: -7458530450507116586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_5
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1926
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce7e083d49ca254e8ab2e1f189680b2
+      internalID: 5478163010152601495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_6
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1926
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf363ae263d14d438ca12ff0df9e0e9
+      internalID: -9094161447647150819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_7
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1926
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae43cd8de6887024c914ceedf0398a1d
+      internalID: 8072484200749600190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_8
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1926
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579ab8917d976de45bc42c9d39a6ca32
+      internalID: 5672067622269890458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_9
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1926
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bef3d6790648641a7e52253206c92e
+      internalID: 7343745878951801135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1798
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a881a1e7ed00e2549b553fa6dc4709a4
+      internalID: 2090071783408904450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_11
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1798
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6515d79d2ff0948408eb2edc6d82ecbe
+      internalID: -5806212336713501050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_12
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1798
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88017e69145e65640b66d2d7f3acd270
+      internalID: 8762142764807221143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_13
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1798
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b55883b553f22488ba59e38b5eaf3b
+      internalID: 2937420316596323603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_14
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1798
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a9d53c3adcc2b43b20169a5fddf325
+      internalID: -1525672627241798204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_15
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1798
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd85d46a41d09874985b640f75a0cdff
+      internalID: -6796652166421370421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_16
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1798
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09687c0d27439a140b5ca4ae57b94314
+      internalID: -1352717523854403949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_17
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1798
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01109f1fc3eba5a4e9db3b0180ddbef3
+      internalID: 4398501531293672266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_18
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1798
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b16b152e6eaca458a930c911d27b5e
+      internalID: 983149060660145111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_19
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1798
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3950bd57a7d8324285a338bebabf27a
+      internalID: 1149291786175374393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_20
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1670
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982b2397ac985d64c9b565db78169c3a
+      internalID: -230374242403458632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_21
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1670
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da344a09ea05864428a656f102ecfc74
+      internalID: -1900698014276725729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_22
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1670
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c384796a50517747886b2522fa7b7bf
+      internalID: -6136649971880160880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_23
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1670
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1392c865968dc644893a17e2fa65d06
+      internalID: 3675981292836970326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_24
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1670
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b085194e0e912964e9395d06dbb28d21
+      internalID: 92429884349770451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_25
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1670
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8636d1af5b4fc488508ca2712204a7
+      internalID: -1655106493761072930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_26
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1670
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2176c27a8d4274ca39d4efd4ae632a
+      internalID: -1498913325636677035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_27
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1670
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfab32019791ee64d8067582d27348da
+      internalID: -724080073942060660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_28
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1670
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5cfac9c0445dd441957e4eaf34b845e
+      internalID: 7961405799436586195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_29
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1670
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717012bdcaa663e4e83edc820fce9be6
+      internalID: 7118666445779304543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_30
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1542
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e323c000e74d14091274dfb3a75209
+      internalID: 766733890712496962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_31
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1542
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be92f173eeaf9304c807f231b30259f0
+      internalID: -8168062103033005929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_32
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1542
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61f75a3b5e48264fab14319e94def65
+      internalID: -2398249640310114842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_33
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1542
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6573c9c2194ad340871730e01ec33a4
+      internalID: -3139823344841577866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_34
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1542
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069026148d3717a49a61b9a7ecf45b62
+      internalID: -3257284594592739406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_35
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1542
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ebe604615bb4a48b7176ef7a3c2f9f
+      internalID: -3135965348063620701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_36
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1542
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b17c3044f4de8458c204160a47c242
+      internalID: -5057053369538210568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_37
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1542
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559dad01569885f4cb3f6ede35dc1016
+      internalID: -5954486664258615087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_38
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1542
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e0945767d93dc459e1e1fe8d8aa209
+      internalID: -8750891425448765344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_39
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1542
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d7f4fa83d448f4cb25197477800dec
+      internalID: -2752879177619951421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_40
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1414
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131a4a8546ef0d8499096191d00b55a2
+      internalID: -4692401892782195700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_41
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1414
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58828a2f375c12e49b59f95a1e7bf4a4
+      internalID: 5192273810058824425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_42
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1414
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160da621444cf6b469d0290649436f71
+      internalID: -384357782336704057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_43
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1414
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9794d04d340c834088f4f27a9a6710f
+      internalID: 8053875532597173408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_44
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1414
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8275992df20927942b4dc6cc65d29714
+      internalID: 1733333653426847870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_45
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1414
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22342e1261f25284bb1cfc61f3a5f83b
+      internalID: 4407256408170931383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_46
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1414
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2685a9ea0a9a076408591ecfaa1ea39c
+      internalID: -9113629587273676420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_47
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1414
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e572ffa5d405b4a859ee5e66c60175
+      internalID: 1420000855437827730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_48
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1414
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bc97d107bf5704e8ad104d9e0d1c7f
+      internalID: 7443487440742758824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_49
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1414
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b926441461eac03498dab08d6d6422c3
+      internalID: -1373596850953234439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_50
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1286
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccd3242a4ba02141b14fe5390c37cc6
+      internalID: 2364131822510102789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_51
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1286
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda2219621bf0f646aaf3f3a259b2ad0
+      internalID: 7987717663995736602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_52
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1286
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d285ffec83466b4f971ce05fa537206
+      internalID: 7877644734505897308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_53
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1286
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfb9c7843780b840ad708355ec9037b
+      internalID: -3469116585059429390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_54
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1286
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fc3634a50ab3b4f9cb1e9885429e53
+      internalID: -6057943868809586097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_55
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1286
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371265f3bb48aab40b3db7446b667f07
+      internalID: 403757294423299144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_56
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1286
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0f650050b9cef4c851b149bcc46769
+      internalID: -4363444160489162572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_57
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1286
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cf58bc40657404fb562de5a76ae9cf
+      internalID: 8297381448660363687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_58
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1286
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f9d2dadd6213c44a74cbb2971ae576
+      internalID: -7629754837374649004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_59
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1286
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448bd3aa7429ec14187a86c1f081dc49
+      internalID: -7971701895969818407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_60
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1158
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84009753e376a7f4e93b47b7a5059064
+      internalID: 3367926358202155402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_61
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1158
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdb987e3180ba24c90c9bc461ce3341
+      internalID: 7207749181888274706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_62
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1158
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510de6f599cd1f24f913a46fbb27f63b
+      internalID: 2789389891160939134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_63
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1158
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba681bd1ff5cf34bb16003d5cb62629
+      internalID: 3160470015597311159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_64
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1158
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d4ccda7762a50439704416a4c72dc7
+      internalID: 2409460860162497632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_65
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1158
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a41ea86e10cf7a42b8f8643ecd8114f
+      internalID: 827549052440583785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_66
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1158
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96571642828c03e44841686e5143faa4
+      internalID: 243654341998127662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_67
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1158
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4dea1f21539d34fad25e3ee1b7cf05
+      internalID: 414519860170893378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_68
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1158
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8235a1fae166642b375d1c4c500360
+      internalID: 3727737015968479675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_69
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1158
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30580acca0343a3429f4fd7fa381a388
+      internalID: 8416247251495467883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_70
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1030
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd517577676b8e4483eef4413ac8713
+      internalID: -215647469344388154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_71
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1030
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2198b4fddf4cfc943b79b2052c89c2e8
+      internalID: -1057926880919880341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_72
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1030
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d70c64d790027848af96cc272bfd554
+      internalID: 8696178306948698276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_73
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1031
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fd4605dabf1b24e87fdadde5d14d1d
+      internalID: -1639170143351601164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_74
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1030
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4bef37564dfab4da4be6c07ab4650f
+      internalID: -8601337155463809798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_75
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1031
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb285abc5840384599f506cd807a53b
+      internalID: -3425796313090206913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_76
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1031
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7855040119bbbef47939cc0792d6ce96
+      internalID: 1461785672441991466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_77
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1036
+        width: 83
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3caa7430c075e48b19d7d84fcc7743
+      internalID: 7921279916664133614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_78
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1030
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbf31fa42466e149aefa25d1fd476f6
+      internalID: 3522699484905677404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_79
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1030
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aae0762ff50a9b4da7569ba14cac0c7
+      internalID: -7706840431547737608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_80
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 902
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1635052f22ef49449a0894ffd8053e11
+      internalID: 4412723887224236672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_81
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 902
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cf3e40faec3424188659e5af12a311
+      internalID: -1802152286791562022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_82
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 902
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f36e294d9d31d749b37dab378f78aa8
+      internalID: -5287394431126911238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_83
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 902
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169172a00feb45647bc2d99ce58f996d
+      internalID: 287618570616438242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_84
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 902
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2420a2db47ffd0f4fb871d78190cca46
+      internalID: 9101743649624809180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_85
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 902
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa9c6b3e82d3eb4b8d6582012b7496a
+      internalID: 2519970189581457254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_86
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 902
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035943312566ebe4e98bf712df9bff8b
+      internalID: -3395554466994607369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_87
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 902
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cafef5d94e542642b64064da75b622a
+      internalID: 2354662656014606064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_88
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 902
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591409b8a09178742abbb03b2325a61b
+      internalID: -8148915623282917972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_89
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 902
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765abe4d842e149439d4e30efe2a9232
+      internalID: 7630258390885742307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_90
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 774
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04dc98e409de6148a0f6572af22ae44
+      internalID: 5526272243725723814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_91
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 774
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfc7359255de424cb3b1f340203bf88
+      internalID: -1648980239050390069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_92
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 774
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e082f6ebd206747a85428489237dd8
+      internalID: 8598420714306372125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_93
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 774
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438ff3f9f9e815a488d892df99b9a8af
+      internalID: -5725879775750846318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_94
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 774
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528acd0ac66756a4982f33f5560bb229
+      internalID: -4308623056388901902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_95
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 774
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04a38f4a5755c142a086d4da2a0f56d
+      internalID: -7736926320499505695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_96
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 774
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f8afb2fb3ec7343a8ce77d1a38f719
+      internalID: -4831322760783649393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_97
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 774
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0de564424568b4eaa34a3c4f79ac01
+      internalID: 3435050115784465341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_98
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 774
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b28cc2a9f1fde14ea55893b28128a6d
+      internalID: 6904481882194456671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_99
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 775
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c837c3654715a48be03886276c4be3
+      internalID: 2503615769165703221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_100
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 647
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c92dfcfdf634141b47f6620e7235ad
+      internalID: 6519646883149002903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_101
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 647
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c184e27db687e044f93cd51265c9c71c
+      internalID: 660808248456044483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_102
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 647
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24dfaefa23df4ff4a8e3faffe299d0c9
+      internalID: -6759310144515263787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_103
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 648
+        width: 91
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee7f4c41ead8bc4d9e8aa6a4d0edc54
+      internalID: -4569820610560278302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_104
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 647
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f202e2b4652f94483a776b3906c218
+      internalID: -3289840983697337799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_105
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 647
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e662dbcb2701e7a4083971c7c31bfbc0
+      internalID: 885205593845949104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_106
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 647
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f730d6c30094349858838a83a831c2
+      internalID: 4673969801011423233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_107
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 647
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1a7b9f192e92642bdd4da758f3a781
+      internalID: -8329467991905705901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_108
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 648
+        width: 91
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42bc60d74fbe074eaf8ff469b73b17b
+      internalID: 190904227711068547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_109
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 648
+        width: 91
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669ac67470a72744ea61bfb63c165c7c
+      internalID: 2560093273850612264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_110
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 519
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c509d4ff9ee2ee4f8ab84cae82a1ca2
+      internalID: -2716587100783261704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_111
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 519
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67cdf2377f8d8f4184499cdac94f42f
+      internalID: 1598048932839198230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_112
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 519
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8385d32c1ef68574687adf148a8a7e20
+      internalID: 9109177898283083784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_113
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 519
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c5438e8306d64488ed301af06514b6
+      internalID: -33639976580427414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_114
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 519
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e728924d3ef621d4c88f248f3e1e6a75
+      internalID: 8050626558692645757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_115
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 519
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065564c92452d0943bf929a726308b3b
+      internalID: -5110135163203647139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_116
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 520
+        width: 91
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3ece6db8cf38b44938ff3be9da1757
+      internalID: -195008248242573132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_117
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 519
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1348516acc9908429560665cfdfeef8
+      internalID: 6967221561887512410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_118
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 519
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9a84ce22565a3488bd26ffb9f9a21e
+      internalID: 3798702592346399416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_119
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 519
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934f593288dbd80438427cc27c6886d7
+      internalID: 573965484960394482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_120
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 391
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a29a3ef67d236f4db8fc26eb8fc72b7
+      internalID: -6408801939811235585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_121
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 390
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667aab9127ddcac429ee5ea99237378e
+      internalID: -4041260195303167888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_122
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 390
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b679aea30c20c5042b9cea686cc1f1a4
+      internalID: 8026264781637301248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_123
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 390
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7261f9e1282c64c47be6768d46b8c17f
+      internalID: -5025234579623176788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_124
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 390
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d8acea9cdbca14297af6f5266727d1
+      internalID: 7724254312297124237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_125
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 391
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0c0560074e2694a8297bf65850b7f7
+      internalID: -8980547743821599490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_126
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 391
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f338596774ca678468413033f4723414
+      internalID: -894148422931861723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_127
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 391
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce2d89d49dc43b4eb9425572ab4af85
+      internalID: 9037817043081690509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_128
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 391
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f255deaf1403478498511efc4f642f2f
+      internalID: -3359781371994098740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_129
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 391
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92608661f494a654d9270b5a255e5f17
+      internalID: 6652572600320829650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_130
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 263
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389ccf3ac9d77f142be049a84e55797b
+      internalID: 3765579248110964060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_131
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 263
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dae5ed0c0786c84385e1246f80df234
+      internalID: -4463202310102621079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_132
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 263
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b49ab5b5dd591458ffca972b7b406c
+      internalID: -2659680160861055128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_133
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 263
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02513b3b53916e04e9137d7c28378aba
+      internalID: 8026067803573425212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_134
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 264
+        width: 91
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c27d2a6988593b44bc57962b6302b8e
+      internalID: 6924195227842974793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_135
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 268
+        width: 83
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f065d9b12e2b38644ab476e1f71d04b5
+      internalID: -7262490667290134835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_136
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 268
+        width: 83
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efdee851a2764a4baaa19dd056f02d4
+      internalID: -1662089473408509715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_137
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 263
+        width: 93
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964685912502aac469e05c00c44520e7
+      internalID: -4417049141759996309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_138
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 264
+        width: 91
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2303095ea926b02419fbc89afa413071
+      internalID: -6082181625751062960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_139
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 264
+        width: 91
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f529ec15989a04cb6cb69dfa035465
+      internalID: 6079589167945213888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_140
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 136
+        width: 91
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bce1dcf33102f4c909ad8bb0ab94cc
+      internalID: -7451329926999550864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_141
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 136
+        width: 91
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b37128e5bb256e44980f5972f18ab11
+      internalID: 3699192524027725273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_142
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 135
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643ec1dd622f32b4c89f165533afd6ba
+      internalID: -8013908726038092421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_143
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 135
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9240de6fa37c87848a19d7c1a414efaf
+      internalID: -4458897117405689317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_144
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 134
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80509deae3ad53348966e4992a266618
+      internalID: 9160330555122997950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_145
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 134
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454de13ffe6e0394286d8233b5d1a292
+      internalID: 4117154507831749306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_146
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 135
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ad7c1b6ece2ff4a81ff5651106df0d
+      internalID: -7068170903323752175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_147
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 134
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1639f8456c1b1f041b9a013e369bbd2d
+      internalID: -9197971934246002106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_148
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 134
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f154a83aa4c564f8232822fcd3f803
+      internalID: 7046477126845622960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_149
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 135
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f717ca236eb03fb4eb8228d5260b94ed
+      internalID: -696139910543046153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_150
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 6
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a4853598763e545b381774b7063c93
+      internalID: 1069198526466391826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_151
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 6
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a606df36490c4246991f60db567a21b
+      internalID: -4498029922159462223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_152
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 6
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4562d935ad10c284388c661bed9f20e2
+      internalID: -7026361181901182102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dragonvale World - Egg Icons_153
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 6
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50c640ec68dc1f4abe2c212e21da61a
+      internalID: -5406704561280033919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ac4d6f83f910ede419331123d5b21f20
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
