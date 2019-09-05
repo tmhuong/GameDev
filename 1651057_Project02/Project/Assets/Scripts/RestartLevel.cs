@@ -19,6 +19,7 @@ public class RestartLevel : MonoBehaviour
 
     public void RestartGame()
     {
+        ObjectPoints.score = 0;
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 }
