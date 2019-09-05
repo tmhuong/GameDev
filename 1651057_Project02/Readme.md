@@ -3,4 +3,6 @@ Final Project - 3D Games<br/><br/>
 
 Unity 2019.1.3f1 (64-bit)<br/><br/>
 
-Forest exploration, collecting objects within available time.
+Forest exploration, collecting objects within available time.br/><br/>
+
+Build folder: https://drive.google.com/drive/folders/1e6lrtFzXlc425cdolngKCFBGGt1EKEPQ?usp=sharing
